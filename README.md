@@ -6,3 +6,6 @@
 
 ## Conflict with release v0.1.0
 - Commit 1
+
+## Release v0.1.0
+- Commit 1

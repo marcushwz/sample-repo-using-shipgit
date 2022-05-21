@@ -12,3 +12,6 @@
 
 ## Feature 2
 - Commit 1
+
+## Hotfix v0.1.1
+- Commit 1

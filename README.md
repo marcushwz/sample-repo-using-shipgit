@@ -9,3 +9,6 @@
 
 ## Release v0.1.0
 - Commit 1
+
+## Feature 2
+- Commit 1

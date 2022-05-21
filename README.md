@@ -9,3 +9,6 @@
 
 ## Release v0.1.0
 - Commit 1
+
+## Hotfix v0.1.1
+- Commit 1
